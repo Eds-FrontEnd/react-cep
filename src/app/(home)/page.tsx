@@ -13,7 +13,7 @@ export default function Home() {
 			<Main classNameStyle="h-[80vh] overflow-auto">
 				<div className="flex flex-col md:flex-row items-center justify-center gap-8 p-home">
 					<div className="flex flex-col gap-4 text-center md:text-left">
-						<h1 className="text-[2rem] md:text-[2.5rem] text-blue title-home">
+						<h1 className="text-[1.875rem] md:text-[2.5rem] text-blue title-home">
 							Seu melhor aplicativo de consultas de CEPs
 						</h1>
 						<Link href="/search">
